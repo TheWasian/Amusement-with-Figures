@@ -1,0 +1,25 @@
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\bin\Debug\net5.0\Amusment with Figures.exe
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\bin\Debug\net5.0\Amusment with Figures.deps.json
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\bin\Debug\net5.0\Amusment with Figures.runtimeconfig.json
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\bin\Debug\net5.0\Amusment with Figures.runtimeconfig.dev.json
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\bin\Debug\net5.0\Amusment with Figures.dll
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\bin\Debug\net5.0\ref\Amusment with Figures.dll
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\bin\Debug\net5.0\Amusment with Figures.pdb
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\obj\Debug\net5.0\Amusment with Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\obj\Debug\net5.0\Amusment with Figures.AssemblyInfoInputs.cache
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\obj\Debug\net5.0\Amusment with Figures.AssemblyInfo.cs
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\obj\Debug\net5.0\Amusment with Figures.csproj.CoreCompileInputs.cache
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\obj\Debug\net5.0\Amusment with Figures.dll
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\obj\Debug\net5.0\ref\Amusment with Figures.dll
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\obj\Debug\net5.0\Amusment with Figures.pdb
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\obj\Debug\net5.0\Amusment with Figures.genruntimeconfig.cache
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\obj\Debug\net5.0\Amusment with Figures.csproj.AssemblyReference.cache
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\obj\Debug\net5.0\Amusment with Figures.csproj.CopyComplete
+C:\Users\matty\source\repos\Amusment with Figures\Amusment with Figures\bin\Debug\net5.0\cayden.wav
